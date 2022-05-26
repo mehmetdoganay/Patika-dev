@@ -1,0 +1,15 @@
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/bin/Debug/net6.0/Koleksiyonlar
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/bin/Debug/net6.0/Koleksiyonlar.deps.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/bin/Debug/net6.0/Koleksiyonlar.runtimeconfig.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/bin/Debug/net6.0/Koleksiyonlar.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/bin/Debug/net6.0/Koleksiyonlar.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.csproj.AssemblyReference.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.AssemblyInfoInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.AssemblyInfo.cs
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/refint/Koleksiyonlar.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/Koleksiyonlar.genruntimeconfig.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Koleksiyonlar/obj/Debug/net6.0/ref/Koleksiyonlar.dll

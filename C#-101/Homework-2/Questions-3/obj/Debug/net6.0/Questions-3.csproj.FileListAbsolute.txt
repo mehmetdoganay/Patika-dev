@@ -1,0 +1,15 @@
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/bin/Debug/net6.0/Questions-3
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/bin/Debug/net6.0/Questions-3.deps.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/bin/Debug/net6.0/Questions-3.runtimeconfig.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/bin/Debug/net6.0/Questions-3.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/bin/Debug/net6.0/Questions-3.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.csproj.AssemblyReference.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.AssemblyInfoInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.AssemblyInfo.cs
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.csproj.CoreCompileInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/refint/Questions-3.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/Questions-3.genruntimeconfig.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Homework-2/Questions-3/obj/Debug/net6.0/ref/Questions-3.dll

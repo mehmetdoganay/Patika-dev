@@ -1,0 +1,31 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow {
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark {
+    border:solid 1px #414141;
+}
+
+.img-size {
+    width: 500px;
+    height: 400px;
+}
+
+.btn-mr {
+    margin-left: 20px;
+}
+
+.aside-btn >li {
+    margin-bottom: 10px;
+}
+
+.link-style {
+     text-decoration: none;
+}
+
+.btn-style {
+    border-radius: 50px;
+}

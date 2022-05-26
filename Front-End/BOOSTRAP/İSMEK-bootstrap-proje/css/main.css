@@ -1,0 +1,39 @@
+
+.navbar {   
+    background-color: #0b88b6 !important;  
+}
+
+.nav-link {
+    color: white !important;
+    font-weight: bolder;
+}
+
+.online {
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+
+.main-img {
+    height: 570px;
+}
+
+h3 {
+    text-align: center;
+}
+.img-size {
+    width: 250px !important;
+    height: 200px !important;
+}
+
+#iletisim h3 {
+    background-color: #0b88b6 !important;
+    color: white !important;
+    font-weight: bolder !important;
+}
+
+footer {
+    background-color: #0b88b6 !important;
+    color: white !important;
+    font-weight: bolder !important;
+}
+

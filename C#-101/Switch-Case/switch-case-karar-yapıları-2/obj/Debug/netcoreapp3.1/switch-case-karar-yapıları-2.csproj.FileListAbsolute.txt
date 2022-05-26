@@ -1,0 +1,13 @@
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\bin\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.exe
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\bin\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.deps.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\bin\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.runtimeconfig.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\bin\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.runtimeconfig.dev.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\bin\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\bin\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\obj\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.csprojAssemblyReference.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\obj\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.AssemblyInfoInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\obj\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.AssemblyInfo.cs
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\obj\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.csproj.CoreCompileInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\obj\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\obj\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\switch-case-karar-yapıları-2\switch-case-karar-yapıları-2\obj\Debug\netcoreapp3.1\switch-case-karar-yapıları-2.genruntimeconfig.cache

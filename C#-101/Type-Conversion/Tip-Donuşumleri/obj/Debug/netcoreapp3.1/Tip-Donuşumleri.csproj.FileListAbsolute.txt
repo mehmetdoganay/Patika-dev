@@ -1,0 +1,13 @@
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\bin\Debug\netcoreapp3.1\Tip-Donuşumleri.exe
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\bin\Debug\netcoreapp3.1\Tip-Donuşumleri.deps.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\bin\Debug\netcoreapp3.1\Tip-Donuşumleri.runtimeconfig.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\bin\Debug\netcoreapp3.1\Tip-Donuşumleri.runtimeconfig.dev.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\bin\Debug\netcoreapp3.1\Tip-Donuşumleri.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\bin\Debug\netcoreapp3.1\Tip-Donuşumleri.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\obj\Debug\netcoreapp3.1\Tip-Donuşumleri.csprojAssemblyReference.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\obj\Debug\netcoreapp3.1\Tip-Donuşumleri.AssemblyInfoInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\obj\Debug\netcoreapp3.1\Tip-Donuşumleri.AssemblyInfo.cs
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\obj\Debug\netcoreapp3.1\Tip-Donuşumleri.csproj.CoreCompileInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\obj\Debug\netcoreapp3.1\Tip-Donuşumleri.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\obj\Debug\netcoreapp3.1\Tip-Donuşumleri.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Tip-Donuşumleri\Tip-Donuşumleri\obj\Debug\netcoreapp3.1\Tip-Donuşumleri.genruntimeconfig.cache

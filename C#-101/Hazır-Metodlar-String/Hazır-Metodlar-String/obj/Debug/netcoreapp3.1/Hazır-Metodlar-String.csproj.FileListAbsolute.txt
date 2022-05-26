@@ -1,0 +1,13 @@
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\bin\Debug\netcoreapp3.1\Hazır-Metodlar-String.exe
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\bin\Debug\netcoreapp3.1\Hazır-Metodlar-String.deps.json
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\bin\Debug\netcoreapp3.1\Hazır-Metodlar-String.runtimeconfig.json
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\bin\Debug\netcoreapp3.1\Hazır-Metodlar-String.runtimeconfig.dev.json
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\bin\Debug\netcoreapp3.1\Hazır-Metodlar-String.dll
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\bin\Debug\netcoreapp3.1\Hazır-Metodlar-String.pdb
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\obj\Debug\netcoreapp3.1\Hazır-Metodlar-String.csproj.AssemblyReference.cache
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\obj\Debug\netcoreapp3.1\Hazır-Metodlar-String.AssemblyInfoInputs.cache
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\obj\Debug\netcoreapp3.1\Hazır-Metodlar-String.AssemblyInfo.cs
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\obj\Debug\netcoreapp3.1\Hazır-Metodlar-String.csproj.CoreCompileInputs.cache
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\obj\Debug\netcoreapp3.1\Hazır-Metodlar-String.dll
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\obj\Debug\netcoreapp3.1\Hazır-Metodlar-String.pdb
+C:\Patika_Dev\C#-101\Hazır-Metodlar-String\Hazır-Metodlar-String\obj\Debug\netcoreapp3.1\Hazır-Metodlar-String.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.exe
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.deps.json
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.runtimeconfig.json
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.runtimeconfig.dev.json
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.dll
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\bin\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.pdb
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.csproj.AssemblyReference.cache
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.AssemblyInfoInputs.cache
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.AssemblyInfo.cs
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.dll
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.pdb
+C:\Users\mehmet\source\repos\DONGULER-WHİLE-FOREACH\DONGULER-WHİLE-FOREACH\obj\Debug\netcoreapp3.1\DONGULER-WHİLE-FOREACH.genruntimeconfig.cache

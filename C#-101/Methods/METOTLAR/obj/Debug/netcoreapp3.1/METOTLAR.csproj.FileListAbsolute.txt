@@ -1,0 +1,13 @@
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\bin\Debug\netcoreapp3.1\METOTLAR.exe
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\bin\Debug\netcoreapp3.1\METOTLAR.deps.json
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\bin\Debug\netcoreapp3.1\METOTLAR.runtimeconfig.json
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\bin\Debug\netcoreapp3.1\METOTLAR.runtimeconfig.dev.json
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\bin\Debug\netcoreapp3.1\METOTLAR.dll
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\bin\Debug\netcoreapp3.1\METOTLAR.pdb
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\obj\Debug\netcoreapp3.1\METOTLAR.csproj.AssemblyReference.cache
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\obj\Debug\netcoreapp3.1\METOTLAR.AssemblyInfoInputs.cache
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\obj\Debug\netcoreapp3.1\METOTLAR.AssemblyInfo.cs
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\obj\Debug\netcoreapp3.1\METOTLAR.csproj.CoreCompileInputs.cache
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\obj\Debug\netcoreapp3.1\METOTLAR.dll
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\obj\Debug\netcoreapp3.1\METOTLAR.pdb
+C:\Patika_Dev\C#-101\METOTLAR\METOTLAR\obj\Debug\netcoreapp3.1\METOTLAR.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.img{
+    width: 100%;
+}
+
+.height{
+    height: 400px;
+}
+
+.img2{
+    height: 200px;
+    width: 200px;
+    
+}
+
+.position{
+    margin: auto;
+}
+
+.center{
+    text-align: center;
+}
+
+.cardsimg {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;  
+}
+
+.rowposition{
+    margin-left: 80px;
+}
+

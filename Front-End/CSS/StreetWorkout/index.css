@@ -1,0 +1,86 @@
+h1  {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 100px;
+    color: #bd2121;
+
+ }
+
+ul {
+    font-size: 30px;
+    text-align: center;
+    list-style-type: none;
+    
+    
+    
+   
+}
+
+li {
+    border: 5px solid #393232;
+    border-radius: 5px;
+    background-color:#e48257;
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+    
+
+}
+
+body {
+    background-color: #f2edd7;
+    
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: #1e212d;
+}
+
+img {
+    height: 400px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+p {
+    border: 2px solid #393232;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+    font-size: 25px;
+    background-color: #e48257;
+}
+
+.ortala {
+    text-align: center;
+    margin-left: auto;
+}
+
+.kırmızı-renk {
+    color: #fa1e0e;
+}
+
+#h2 {
+    text-align: center;
+    color: black
+}
+div > p {
+    color: #000000;
+    background-color: #e48257;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    
+    
+}

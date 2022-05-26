@@ -1,0 +1,13 @@
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\bin\Debug\netcoreapp3.1\AlgoritmaSorusu2.exe
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\bin\Debug\netcoreapp3.1\AlgoritmaSorusu2.deps.json
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\bin\Debug\netcoreapp3.1\AlgoritmaSorusu2.runtimeconfig.json
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\bin\Debug\netcoreapp3.1\AlgoritmaSorusu2.runtimeconfig.dev.json
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\bin\Debug\netcoreapp3.1\AlgoritmaSorusu2.dll
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\bin\Debug\netcoreapp3.1\AlgoritmaSorusu2.pdb
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\obj\Debug\netcoreapp3.1\AlgoritmaSorusu2.AssemblyInfoInputs.cache
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\obj\Debug\netcoreapp3.1\AlgoritmaSorusu2.AssemblyInfo.cs
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\obj\Debug\netcoreapp3.1\AlgoritmaSorusu2.csproj.CoreCompileInputs.cache
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\obj\Debug\netcoreapp3.1\AlgoritmaSorusu2.dll
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\obj\Debug\netcoreapp3.1\AlgoritmaSorusu2.pdb
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\obj\Debug\netcoreapp3.1\AlgoritmaSorusu2.genruntimeconfig.cache
+C:\Patika_Dev\C#-101\Algoritma_Soruları\AlgoritmaSorusu2\obj\Debug\netcoreapp3.1\AlgoritmaSorusu2.csproj.AssemblyReference.cache

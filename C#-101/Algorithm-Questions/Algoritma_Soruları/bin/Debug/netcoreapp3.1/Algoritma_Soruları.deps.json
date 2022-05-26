@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Algoritma_Soruları/1.0.0": {
+        "runtime": {
+          "Algoritma_Soruları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Algoritma_Soruları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

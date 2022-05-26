@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "switch-case-karar-yapıları-2/1.0.0": {
+        "runtime": {
+          "switch-case-karar-yapıları-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "switch-case-karar-yapıları-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

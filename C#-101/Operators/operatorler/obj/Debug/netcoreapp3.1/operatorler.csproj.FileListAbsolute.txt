@@ -1,0 +1,13 @@
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\bin\Debug\netcoreapp3.1\operatorler.exe
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\bin\Debug\netcoreapp3.1\operatorler.deps.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\bin\Debug\netcoreapp3.1\operatorler.runtimeconfig.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\bin\Debug\netcoreapp3.1\operatorler.runtimeconfig.dev.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\bin\Debug\netcoreapp3.1\operatorler.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\bin\Debug\netcoreapp3.1\operatorler.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\obj\Debug\netcoreapp3.1\operatorler.csprojAssemblyReference.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\obj\Debug\netcoreapp3.1\operatorler.AssemblyInfoInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\obj\Debug\netcoreapp3.1\operatorler.AssemblyInfo.cs
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\obj\Debug\netcoreapp3.1\operatorler.csproj.CoreCompileInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\obj\Debug\netcoreapp3.1\operatorler.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\obj\Debug\netcoreapp3.1\operatorler.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\operatorler\operatorler\obj\Debug\netcoreapp3.1\operatorler.genruntimeconfig.cache

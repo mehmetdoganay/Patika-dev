@@ -1,0 +1,15 @@
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/bin/Debug/net6.0/ArrayList
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/bin/Debug/net6.0/ArrayList.deps.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/bin/Debug/net6.0/ArrayList.runtimeconfig.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/bin/Debug/net6.0/ArrayList.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/bin/Debug/net6.0/ArrayList.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.csproj.AssemblyReference.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfoInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.AssemblyInfo.cs
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.csproj.CoreCompileInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/refint/ArrayList.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ArrayList.genruntimeconfig.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/ArrayList/obj/Debug/net6.0/ref/ArrayList.dll

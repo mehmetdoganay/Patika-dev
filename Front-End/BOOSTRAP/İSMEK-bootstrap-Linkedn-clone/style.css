@@ -1,0 +1,13 @@
+body {
+    background-color: #FAF9F7;
+}
+
+input.searche   {
+    height: 38px ;
+    background-image: url("img/search.png");
+    background-repeat: no-repeat;
+    size: 8%;
+    color: gray;
+    font-size: 15px;
+}
+

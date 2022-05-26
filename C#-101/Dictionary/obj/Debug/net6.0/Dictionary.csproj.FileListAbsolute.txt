@@ -1,0 +1,15 @@
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/bin/Debug/net6.0/Dictionary
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/bin/Debug/net6.0/Dictionary.deps.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/bin/Debug/net6.0/Dictionary.runtimeconfig.json
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/bin/Debug/net6.0/Dictionary.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/bin/Debug/net6.0/Dictionary.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.csproj.AssemblyReference.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfoInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.AssemblyInfo.cs
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/refint/Dictionary.dll
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.pdb
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/Dictionary.genruntimeconfig.cache
+/Users/mehmet/Desktop/Patika.dev/C#-101/Dictionary/obj/Debug/net6.0/ref/Dictionary.dll

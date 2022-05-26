@@ -1,0 +1,13 @@
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.exe
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.deps.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.runtimeconfig.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.runtimeconfig.dev.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\bin\Debug\netcoreapp3.1\Hata-Yonetimi.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.csprojAssemblyReference.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.AssemblyInfoInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.AssemblyInfo.cs
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.csproj.CoreCompileInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\Hata-Yonetimi\Hata-Yonetimi\obj\Debug\netcoreapp3.1\Hata-Yonetimi.genruntimeconfig.cache

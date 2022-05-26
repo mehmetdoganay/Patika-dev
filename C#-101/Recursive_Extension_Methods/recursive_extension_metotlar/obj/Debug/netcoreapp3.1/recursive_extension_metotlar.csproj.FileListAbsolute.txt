@@ -1,0 +1,13 @@
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\netcoreapp3.1\recursive_extension_metotlar.exe
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\netcoreapp3.1\recursive_extension_metotlar.deps.json
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\netcoreapp3.1\recursive_extension_metotlar.runtimeconfig.json
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\netcoreapp3.1\recursive_extension_metotlar.runtimeconfig.dev.json
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\netcoreapp3.1\recursive_extension_metotlar.dll
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\bin\Debug\netcoreapp3.1\recursive_extension_metotlar.pdb
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\netcoreapp3.1\recursive_extension_metotlar.csproj.AssemblyReference.cache
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\netcoreapp3.1\recursive_extension_metotlar.AssemblyInfoInputs.cache
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\netcoreapp3.1\recursive_extension_metotlar.AssemblyInfo.cs
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\netcoreapp3.1\recursive_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\netcoreapp3.1\recursive_extension_metotlar.dll
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\netcoreapp3.1\recursive_extension_metotlar.pdb
+C:\Patika_Dev\C#-101\recursive_extension_metotlar\recursive_extension_metotlar\obj\Debug\netcoreapp3.1\recursive_extension_metotlar.genruntimeconfig.cache

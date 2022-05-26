@@ -1,0 +1,13 @@
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.csprojAssemblyReference.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.AssemblyInfoInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.AssemblyInfo.cs
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.csproj.CoreCompileInputs.cache
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.exe
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.deps.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.runtimeconfig.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.runtimeconfig.dev.json
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\bin\Debug\netcoreapp3.1\degiskenler.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.dll
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.pdb
+C:\Program Files\C#_PROJELER\C#-101-PATİKA\degiskenler\degiskenler\obj\Debug\netcoreapp3.1\degiskenler.genruntimeconfig.cache
