@@ -1,9 +1,9 @@
-function header() {
+function Header() {
     return (
         <div>
-            Merhaba Ben Haader bileşeniyim
+            Merhaba Ben Header bileşeniyim
         </div>
     )
 }
 
-export default header
+export default Header
