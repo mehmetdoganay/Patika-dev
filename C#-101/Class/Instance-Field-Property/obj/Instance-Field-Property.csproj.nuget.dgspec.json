@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mehmet/Desktop/Patika/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj": {}
+    "/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj": {}
   },
   "projects": {
-    "/Users/mehmet/Desktop/Patika/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj": {
+    "/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehmet/Desktop/Patika/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj",
+        "projectUniqueName": "/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj",
         "projectName": "Instance-Field-Property",
-        "projectPath": "/Users/mehmet/Desktop/Patika/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj",
-        "packagesPath": "/Users/mehmet/.nuget/packages/",
-        "outputPath": "/Users/mehmet/Desktop/Patika/C#-101/Class/Instance-Field-Property/obj/",
+        "projectPath": "/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Instance-Field-Property/Instance-Field-Property.csproj",
+        "packagesPath": "/Users/mehmetdoganay/.nuget/packages/",
+        "outputPath": "/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Instance-Field-Property/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mehmet/.nuget/NuGet/NuGet.Config"
+          "/Users/mehmetdoganay/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
         }
       }
     }
