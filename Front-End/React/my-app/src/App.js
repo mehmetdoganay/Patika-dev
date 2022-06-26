@@ -31,10 +31,15 @@ function App() {
       <Header/>
       <User 
         name="Mehmet" 
-        surname = "Doğanay" 
+        surname = "Doğanay"
+        heigh={170} 
         age={23} 
         isLoggedIn = {true} 
         friends = {friends}
+        adress = {{
+          title: 'Çerkezköy/Tekirdağ',
+          zipt: 59500,
+        }}
         />
     </div>
   )
