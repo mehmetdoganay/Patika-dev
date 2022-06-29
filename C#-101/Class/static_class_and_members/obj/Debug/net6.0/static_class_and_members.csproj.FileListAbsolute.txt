@@ -1,0 +1,15 @@
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/bin/Debug/net6.0/static_class_and_members
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/bin/Debug/net6.0/static_class_and_members.deps.json
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/bin/Debug/net6.0/static_class_and_members.runtimeconfig.json
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/bin/Debug/net6.0/static_class_and_members.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/bin/Debug/net6.0/static_class_and_members.pdb
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.csproj.AssemblyReference.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.AssemblyInfoInputs.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.AssemblyInfo.cs
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.csproj.CoreCompileInputs.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/refint/static_class_and_members.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.pdb
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/static_class_and_members.genruntimeconfig.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/static_class_and_members/obj/Debug/net6.0/ref/static_class_and_members.dll

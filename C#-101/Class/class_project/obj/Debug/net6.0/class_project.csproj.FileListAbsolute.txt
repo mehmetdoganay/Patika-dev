@@ -1,0 +1,15 @@
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/bin/Debug/net6.0/class_project
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/bin/Debug/net6.0/class_project.deps.json
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/bin/Debug/net6.0/class_project.runtimeconfig.json
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/bin/Debug/net6.0/class_project.dll
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/bin/Debug/net6.0/ref/class_project.dll
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/bin/Debug/net6.0/class_project.pdb
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.csproj.AssemblyReference.cache
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.AssemblyInfoInputs.cache
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.AssemblyInfo.cs
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.csproj.CoreCompileInputs.cache
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.dll
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/ref/class_project.dll
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.pdb
+/Users/mehmetdoganay/Documents/Patika-dev/C#-101/Class/class_project/obj/Debug/net6.0/class_project.genruntimeconfig.cache
