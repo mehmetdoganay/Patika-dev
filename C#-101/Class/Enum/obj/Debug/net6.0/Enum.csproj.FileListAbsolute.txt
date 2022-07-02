@@ -1,0 +1,15 @@
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/bin/Debug/net6.0/Enum
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/bin/Debug/net6.0/Enum.deps.json
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/bin/Debug/net6.0/Enum.runtimeconfig.json
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/bin/Debug/net6.0/Enum.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/bin/Debug/net6.0/Enum.pdb
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.csproj.AssemblyReference.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.AssemblyInfoInputs.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.AssemblyInfo.cs
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.csproj.CoreCompileInputs.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/refint/Enum.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.pdb
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/Enum.genruntimeconfig.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/Class/Enum/obj/Debug/net6.0/ref/Enum.dll
