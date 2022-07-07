@@ -1,0 +1,15 @@
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/bin/Debug/net6.0/Kalıtım
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/bin/Debug/net6.0/Kalıtım.deps.json
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/bin/Debug/net6.0/Kalıtım.runtimeconfig.json
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/bin/Debug/net6.0/Kalıtım.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/bin/Debug/net6.0/Kalıtım.pdb
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.csproj.AssemblyReference.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.AssemblyInfoInputs.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.AssemblyInfo.cs
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.csproj.CoreCompileInputs.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/refint/Kalıtım.dll
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.pdb
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/Kalıtım.genruntimeconfig.cache
+/Users/mehmetdoganay/Desktop/Patika-dev/C#-101/OOP/Kalıtım/obj/Debug/net6.0/ref/Kalıtım.dll
