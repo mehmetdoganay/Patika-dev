@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mehmet/Desktop/Patika/dotnet/dotnet.csproj": {}
+    "/Users/mehmetdoganay/Desktop/Patika-dev/dotnet/firstProject/helloWebapi/helloWebapi.csproj": {}
   },
   "projects": {
-    "/Users/mehmet/Desktop/Patika/dotnet/dotnet.csproj": {
+    "/Users/mehmetdoganay/Desktop/Patika-dev/dotnet/firstProject/helloWebapi/helloWebapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mehmet/Desktop/Patika/dotnet/dotnet.csproj",
-        "projectName": "dotnet",
-        "projectPath": "/Users/mehmet/Desktop/Patika/dotnet/dotnet.csproj",
-        "packagesPath": "/Users/mehmet/.nuget/packages/",
-        "outputPath": "/Users/mehmet/Desktop/Patika/dotnet/obj/",
+        "projectUniqueName": "/Users/mehmetdoganay/Desktop/Patika-dev/dotnet/firstProject/helloWebapi/helloWebapi.csproj",
+        "projectName": "helloWebapi",
+        "projectPath": "/Users/mehmetdoganay/Desktop/Patika-dev/dotnet/firstProject/helloWebapi/helloWebapi.csproj",
+        "packagesPath": "/Users/mehmetdoganay/.nuget/packages/",
+        "outputPath": "/Users/mehmetdoganay/Desktop/Patika-dev/dotnet/firstProject/helloWebapi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/mehmet/.nuget/NuGet/NuGet.Config"
+          "/Users/mehmetdoganay/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
